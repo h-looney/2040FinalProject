@@ -1,0 +1,16 @@
+C:\Users\holde\OneDrive\Documents\INFOTC2040\FinalProject\bin\Debug\net5.0\FinalProject.exe
+C:\Users\holde\OneDrive\Documents\INFOTC2040\FinalProject\bin\Debug\net5.0\FinalProject.deps.json
+C:\Users\holde\OneDrive\Documents\INFOTC2040\FinalProject\bin\Debug\net5.0\FinalProject.runtimeconfig.json
+C:\Users\holde\OneDrive\Documents\INFOTC2040\FinalProject\bin\Debug\net5.0\FinalProject.runtimeconfig.dev.json
+C:\Users\holde\OneDrive\Documents\INFOTC2040\FinalProject\bin\Debug\net5.0\FinalProject.dll
+C:\Users\holde\OneDrive\Documents\INFOTC2040\FinalProject\bin\Debug\net5.0\ref\FinalProject.dll
+C:\Users\holde\OneDrive\Documents\INFOTC2040\FinalProject\bin\Debug\net5.0\FinalProject.pdb
+C:\Users\holde\OneDrive\Documents\INFOTC2040\FinalProject\obj\Debug\net5.0\FinalProject.csproj.AssemblyReference.cache
+C:\Users\holde\OneDrive\Documents\INFOTC2040\FinalProject\obj\Debug\net5.0\FinalProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\holde\OneDrive\Documents\INFOTC2040\FinalProject\obj\Debug\net5.0\FinalProject.AssemblyInfoInputs.cache
+C:\Users\holde\OneDrive\Documents\INFOTC2040\FinalProject\obj\Debug\net5.0\FinalProject.AssemblyInfo.cs
+C:\Users\holde\OneDrive\Documents\INFOTC2040\FinalProject\obj\Debug\net5.0\FinalProject.csproj.CoreCompileInputs.cache
+C:\Users\holde\OneDrive\Documents\INFOTC2040\FinalProject\obj\Debug\net5.0\FinalProject.dll
+C:\Users\holde\OneDrive\Documents\INFOTC2040\FinalProject\obj\Debug\net5.0\ref\FinalProject.dll
+C:\Users\holde\OneDrive\Documents\INFOTC2040\FinalProject\obj\Debug\net5.0\FinalProject.pdb
+C:\Users\holde\OneDrive\Documents\INFOTC2040\FinalProject\obj\Debug\net5.0\FinalProject.genruntimeconfig.cache
